@@ -2,5 +2,4 @@ rmdir = Remove directory
 touch = Create a file
 mkdir = Create a directory
 ls = List directory contents
-diff = Display the differences between two files
 pwd = Print working directory
